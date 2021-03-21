@@ -1,0 +1,3 @@
+/Users/viggo/Desktop/C_Project/BigInterger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/viggo/Desktop/C_Project/BigInterger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viggo/Desktop/C_Project/BigInterger/cmake-build-debug/CMakeFiles/BigInterger.dir
